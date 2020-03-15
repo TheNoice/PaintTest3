@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\PaintTest3\bin\Debug\PaintTest3.exe.config
+C:\Users\Пользователь\source\repos\PaintTest3\bin\Debug\PaintTest3.exe
+C:\Users\Пользователь\source\repos\PaintTest3\bin\Debug\PaintTest3.pdb
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.Form1.resources
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.exe
+C:\Users\Пользователь\source\repos\PaintTest3\obj\Debug\PaintTest3.pdb
